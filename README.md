@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**gunsum/gunsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**/gunsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://github.com/gunsum" target="_blank">
+    <img src="https://example.com/my-card.png" alt="Profile Card" width="400" />
+  </a>
+</p>
