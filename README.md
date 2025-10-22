@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://github.com/gunsum" target="_blank">
-    <img src="https://www.boot.dev/u/sugunum)" alt="Profile Card" width="400" />
+    <img src="https://www.boot.dev/u/sugunum" alt="Profile Card" width="400" />
   </a>
 </p>
